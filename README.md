@@ -7,6 +7,6 @@ All work is performed in Jupyter notebooks. Current python dependencies:
 ```
 pip install periodictable
 ```
-Work is done using the suggested textbook: 
+Work is done using the suggested textbook and other supplemental articles and papers credited in problem sets: 
 
 `Lewis, Elmer E. Fundamentals of Nuclear Reactor Physics. Burlington, MA: Academic Press, 2008. ISBN: 9780123706317.`
